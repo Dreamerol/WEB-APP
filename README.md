@@ -3,8 +3,6 @@
 ![BOOKS](https://github.com/Dreamerol/Dreamerol/blob/20e1d0e02512d29544a9b7b4f5e4b76b85b40680/BOOKS.jpg)
 
 
----
-
 ## 🚀 Overview
 
 This project is a **simple web application built using Django**, designed for managing books. It demonstrates how to create a **database-driven website** with Python, templates, and static files. The app is educational in nature and showcases basic CRUD (Create, Read, Update, Delete) operations with Django. The Django app allows users to:
