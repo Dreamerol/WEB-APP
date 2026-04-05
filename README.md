@@ -20,8 +20,6 @@ Technologies used:
 - **HTML templates** – rendering dynamic pages  
 - **Static files (CSS/JS)** – styling  
 
----
-
 
 ---
 
