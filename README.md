@@ -32,5 +32,4 @@ Technologies used:
 - **Dynamic Templates:** Pages automatically update based on database content  
 - **Admin Panel:** Manage books directly via Django admin  
 
----
 
