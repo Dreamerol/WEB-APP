@@ -63,12 +63,6 @@ This project tells the story of turning software knowledge into practical, real-
 
 <ul> <li>📖 **Book Listing:** Browse all books</li> <li>➕ **Add Book:** Add new entries via forms</li> <li>✏️ **Edit Book:** Update book information</li> <li>🗑️ **Delete Book:** Remove books</li> <li>🎨 **Dynamic Templates:** Auto-update pages based on database</li> <li>⚙️ **Admin Panel:** Manage books professionally</li> <li>🌐 **Responsive Design:** Works on desktop & mobile</li> </ul>
 
-<h2>🖥️ TECH STACK / ТЕХНОЛОГИИ</h2> 
-
----
-
-<p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> <img src="https://img.shields.io/badge/Responsive-Design-pink?style=for-the-badge" alt="Responsive Design"> </p>
-
 ---
 
 <h2>💡 HOW IT WORKS</h2> 
@@ -84,6 +78,15 @@ This project tells the story of turning software knowledge into practical, real-
 <h2>💼 KEY SKILLS / УМЕНИЯ</h2> 
 
 <ul> <li>🐍 **Python & Django Development**</li> <li>🗄️ **Database Integration (SQLite)**</li> <li>🎨 **Template Rendering & Static Files**</li> <li>🛠️ **CRUD Functionality Implementation**</li> <li>📱 **Responsive & Portfolio-Ready Design**</li> <li>🧩 **Problem-Solving & Clean Coding Practices**</li> <li>💼 **HR/Recruiter Friendly Presentation**</li> </ul>
+
+---
+
+<h2>🖥️ TECH STACK / ТЕХНОЛОГИИ</h2> 
+
+---
+
+<p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> <img src="https://img.shields.io/badge/Responsive-Design-pink?style=for-the-badge" alt="Responsive Design"> </p>
+
 
 ---
 
