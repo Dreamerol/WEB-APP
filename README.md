@@ -2,10 +2,11 @@
 
 <p align="center"><strong><em style="font-size: 160%;">Dynamic web application to manage books and showcase CRUD operations using Python and Django</em></strong></p>
 
+
 ---
 
 
-<div align="center"> <img src="https://github.com/Dreamerol/Dreamerol/blob/20e1d0e02512d29544a9b7b4f5e4b76b85b40680/BOOKS.jpg" alt="BOOKS" width="600"/> </div>
+<div align="center"> <img src="https://github.com/Dreamerol/Dreamerol/blob/315852075478707306a5f65265e8b22f03963a1f/ZBOOKS.jpg" alt="BOOKS" width="600"/> </div>
 
 ---
 
