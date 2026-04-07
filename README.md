@@ -1,5 +1,7 @@
-<h2 align="center">📚 DJANGO WEB APP – BOOK MANAGEMENT SYSTEM</h2> <p align="center"><strong><em style="font-size: 160%;">Dynamic web application to manage books and showcase CRUD operations using Python and Django</em></strong></p>
+<h2 align="center">📚 DJANGO WEB APP – BOOK MANAGEMENT SYSTEM</h2> 
 
+<p align="center"><strong><em style="font-size: 160%;">Dynamic web application to manage books and showcase CRUD operations using Python and Django</em></strong></p>
+---
 
 
 <div align="center"> <img src="https://github.com/Dreamerol/Dreamerol/blob/20e1d0e02512d29544a9b7b4f5e4b76b85b40680/BOOKS.jpg" alt="BOOKS" width="600"/> </div>
