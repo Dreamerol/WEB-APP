@@ -105,7 +105,14 @@ This project tells the story of turning software knowledge into practical, real-
 
 <p align="center"> <img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Django-Framework-green?style=for-the-badge&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/SQLite-Database-red?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub"> <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visual-studio&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/CRUD-Operations-orange?style=for-the-badge" alt="CRUD"> <img src="https://img.shields.io/badge/Templates-HTML%2FCSS-purple?style=for-the-badge" alt="Templates"> <img src="https://img.shields.io/badge/Admin-Panel-teal?style=for-the-badge" alt="Admin Panel"> <img src="https://img.shields.io/badge/Responsive-Design-pink?style=for-the-badge" alt="Responsive Design"> </p>
 
+---
 
+<p align="center">
+  🔗 Explore more on my GitHub profile: 
+  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
+</p>
+
+---
 
 
 
