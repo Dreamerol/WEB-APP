@@ -13,9 +13,6 @@
 ---
 
 
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
-
-
 <p align="center">
   <!-- CORE (blue) -->
   <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white" />
@@ -88,7 +85,6 @@ This project tells the story of turning software knowledge into practical, real-
 
 ---
 
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 <p align="center">
   <!-- CORE (blue) -->
@@ -165,7 +161,6 @@ This project tells the story of turning software knowledge into practical, real-
 
 ---
 
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 <p align="center">
   <!-- CORE (blue) -->
@@ -200,7 +195,6 @@ This project tells the story of turning software knowledge into practical, real-
 
 ---
 
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 <p align="center">
   <!-- CORE (blue) -->
@@ -235,8 +229,6 @@ This project tells the story of turning software knowledge into practical, real-
 
 
 ---
-
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 <p align="center">
   <!-- CORE (blue) -->
@@ -273,8 +265,6 @@ This project tells the story of turning software knowledge into practical, real-
 
 
 ---
-
-<h2 align="center">🖥️ TECH STACK / ТЕХНОЛОГИИ</h2>
 
 
 <p align="center">
